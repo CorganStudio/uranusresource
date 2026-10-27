@@ -1,0 +1,30 @@
+# UranusResource
+
+> Domain research archive for Uranus. Literature reviews and primary-source analyses. Curated by Corgan Studio, Inc.
+
+Research Archive: https://uranusresource.net/research/ (literature reviews by Corgan Studio, Inc., open to read).
+
+## Research Archive
+
+- [Proposed flagship Uranus orbiter mission science](https://uranusresource.net/research/uranus-flagship-mission): Review of the proposed flagship-class Uranus orbiter mission, the science objectives identified in the 2023 Decadal Survey, the trajectory and arrival options through 2045, and the comparison to the Cassini-Saturn-system mission template.
+- [Ice giant interior composition models: Uranus and Neptune compared](https://uranusresource.net/research/uranus-interior-models): Review of the three-layer interior models for Uranus, the constraints from Voyager 2 gravity and shape measurements, the metallic-superionic-water phase questions, and the prospects for refinement from a flagship Uranus orbiter.
+- [Uranus's offset magnetic field and atmospheric dynamics](https://uranusresource.net/research/uranus-magnetic-field-tilt): Review of the Voyager 2 magnetometer characterisation of Uranus's strongly tilted and offset magnetic field, the dynamo-region constraints it imposes, and the seasonal-atmospheric coupling implied by the geometry.
+- [Uranus ring structure: Voyager 2 baseline and modern ground-based and JWST refinement](https://uranusresource.net/research/uranus-ring-structure): Review of the Uranian ring system, the Voyager 2 baseline characterisation of the 13 rings, the structural and compositional refinement from ground-based stellar occultations and Hubble imaging, and the JWST-era thermal-infrared characterisation of ring particle properties.
+- [Uranus seasonal methane ice variation](https://uranusresource.net/research/uranus-seasonal-methane): Review of the multi-decadal Hubble and Keck imaging record of seasonal methane ice variation in the Uranus atmosphere, the polar haze formation cycle, and the seasonal asymmetries linked to Uranus's 98-degree axial tilt and 84-year orbital period.
+
+## Related archives
+
+- [TerraResource Research Archive](https://terraresource.net/research/)
+- [MoonResource Research Archive](https://moonresource.com/research/)
+- [MarsResource Research Archive](https://marsresource.net/research/)
+- [SunResource Research Archive](https://sunresource.net/research/)
+- [MercuryResource Research Archive](https://mercuryresource.net/research/)
+- [VenusResource Research Archive](https://venusresource.net/research/)
+- [JupiterResource Research Archive](https://jupiterresource.net/research/)
+- [SaturnResource Research Archive](https://saturnresource.net/research/)
+- [NeptuneResource Research Archive](https://neptuneresource.net/research/)
+- [PlutoResource Research Archive](https://plutoresource.net/research/)
+- [GalacticResource Research Archive](https://galacticresource.com/research/)
+- [SolarSystemResource Research Archive](https://solarsystemresource.com/research/)
+
+Sitemap: https://uranusresource.net/sitemap.xml
